@@ -1,0 +1,14 @@
+UC1 : Ability to create a Address Book Service DB
+
+CREATE DATABASE Address_Book_System;
+Query OK, 1 row affected (0.09 sec)
+
+mysql> use Address_Book_System;
+Database changed
+mysql> select database();
++---------------------+
+| database()          |
++---------------------+
+| address_book_system |
++---------------------+
+1 row in set (0.00 sec)
