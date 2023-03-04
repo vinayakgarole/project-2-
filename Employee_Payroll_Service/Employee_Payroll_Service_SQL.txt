@@ -1,0 +1,20 @@
+UC1_Create_DataBase
+
+ create database Employee_Payroll_Service;
+Query OK, 1 row affected (0.19 sec)
+
+ show databases;
++--------------------------+
+| Database                 |
++--------------------------+
+| address_book_system      |
+| demo                     |
+| employee_payroll_service |
+| information_schema       |
+| mysql                    |
+| payroll_service          |
+| payroll_service_new      |
+| performance_schema       |
+| sys                      |
++--------------------------+
+9 rows in set (0.00 sec)
